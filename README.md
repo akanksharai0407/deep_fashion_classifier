@@ -1,7 +1,5 @@
 # Automatic Clothing Classification and Text-Based Image Search for E-Commerce
 
-This repository contains the implementation of a deep learning-based system for automatic clothing classification and category-based image retrieval using text input. The project was developed as part of the MSc in Artificial Intelligence program (2024/2025) by Zhanel Ashirbek and Akansha Rai.
-
 ## Project Description
 
 E-commerce platforms offer a wide range of fashion products, making it increasingly difficult for users to locate specific items efficiently. This project addresses that challenge by designing and evaluating deep learning models that can classify fashion images into predefined categories and retrieve relevant images based on textual descriptions.
