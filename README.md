@@ -62,3 +62,7 @@ CLIP achieved successful text-to-image matching for dominant and visually distin
 - NumPy, Pandas
 - Matplotlib, Seaborn
 - OpenAI CLIP (via `transformers` or `clip` package)
+
+## Authors
+- Akanksha Rai
+- Zhanel Ashirbek
