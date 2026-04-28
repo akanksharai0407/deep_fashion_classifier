@@ -1,4 +1,4 @@
-# Automatic Clothing Classification and Text-Based Image Search for E-Commerce
+# Automatic Clothing Classification and Text-Based Image Search for E-Commerce (Deep Leaning)
 
 ## Project Description
 
